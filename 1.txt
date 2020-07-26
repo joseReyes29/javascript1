@@ -1,0 +1,5 @@
+getElementById(). = como su nombre indica, seleccionar un elemento del documento por medio del valor del atributo id que se le haya asignado
+
+innerHTML = devuelve o establece la sintaxis HTML describiendo los descendientes del elemento. Al establecerse se reemplaza la sintaxis HTML del elemento por la nueva.
+
+onclick = sirve para describir acciones que queremos que se ejecuten cuando se hace un click.
